@@ -17,6 +17,10 @@
 
 ## 🌸 About Me
 
+<table>
+<tr>
+<td width="65%" valign="top">
+
 Hi! I'm **Cindy**, a Computer Science Engineer and AI-driven innovator passionate about using technology to create meaningful experiences.
 
 I'm especially interested in the intersection of **artificial intelligence, software development, and beauty-tech** — exploring how technology can become more personal, accessible, and empowering.
@@ -25,10 +29,20 @@ I'm especially interested in the intersection of **artificial intelligence, soft
 * 💻 Building with modern **software and web technologies**
 * 💄 Interested in the possibilities of **beauty-tech**
 * 💗 Passionate about creating technology that **empowers women**
-* 🌱 Continuously learning, experimenting, and turning ideas into working products
-* 🪄 I enjoy combining **technical thinking with creativity and design**
+* 🌱 Continuously learning, experimenting, and building
+* 🪄 Combining **technical thinking with creativity and design**
 
 > *Technology doesn't have to choose between intelligence and beauty — it can be both.*
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220" alt="Cute computer animation" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -61,7 +75,7 @@ Technologies I've worked with across projects and experiments:
 
 ## 🎀 Featured Projects
 
-A few projects from my journey:
+A few projects from my developer journey:
 
 | Project                 | Description                                                                                                                     |
 | :---------------------- | :------------------------------------------------------------------------------------------------------------------------------ |
@@ -75,11 +89,15 @@ A few projects from my journey:
 
 ## 🤖 Where Technology Meets Creativity
 
-I'm particularly interested in exploring how **AI can make digital experiences more intelligent, personal, and useful**.
+<div align="center">
 
-My long-term interest lies in building products where technology solves real problems while still feeling intuitive, beautiful, and human.
+### AI × Software × Beauty-Tech × Women Empowerment
 
-**AI × Software × Beauty-Tech × Women Empowerment**
+</div>
+
+I'm interested in exploring how **artificial intelligence and software can create smarter, more personal, and more empowering digital experiences**.
+
+The goal isn't simply to build technology for technology's sake — it's to create products that are **useful, intuitive, beautiful, and meaningful**.
 
 ---
 
@@ -111,19 +129,23 @@ My long-term interest lies in building products where technology solves real pro
 
 </div>
 
+<br>
+
 * 🤖 **Exploring:** AI-driven applications and emerging technologies
 * 💻 **Building:** Projects that combine technology, creativity, and real-world impact
 * 💄 **Interested in:** Beauty-tech and personalized digital experiences
-* 🌱 **Learning:** New technologies, frameworks, and ways to build better products
+* 🌱 **Learning:** New technologies, frameworks, and better ways to build
 * ✨ **Goal:** Create technology that is intelligent, useful, beautiful, and empowering
 
 ---
 
 ## 💌 Let's Connect
 
+<div align="center">
+
 I'm always happy to connect with developers, innovators, creators, and people building exciting things with technology.
 
-<div align="center">
+<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-cindymiti77--ship--it-f4d9e5?style=for-the-badge\&logo=github\&logoColor=855a72)](https://github.com/cindymiti77-ship-it)
 
