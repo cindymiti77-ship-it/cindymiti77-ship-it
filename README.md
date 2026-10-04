@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:fff1f5,45:f7d8e6,100:e9ddf8&height=190&section=header&text=hello,%20beautiful%20world%20%E2%99%A1&fontSize=34&fontColor=8f5874&fontAlignY=48&desc=building%20with%20curiosity%20and%20a%20little%20magic&descSize=14&descAlignY=70" alt="Soft blush and lavender banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:fff1f5,45:f7d8e6,100:e9ddf8&height=200&section=header&text=hello,%20beautiful%20world%20%E2%99%A1&fontSize=34&fontColor=8f5874&fontAlignY=46&desc=AI%20%7C%20technology%20%7C%20beauty%20%7C%20innovation&descSize=14&descAlignY=70" alt="Soft blush and lavender banner" width="100%" />
 
 # Hi, I'm Cindy ♡
 
-**Developer · Curious mind · Creative problem-solver**
+### AI-Driven Innovator · Computer Science Engineer · Beauty-Tech Builder
 
-*Building, learning, experimenting, and turning ideas into meaningful digital experiences.* 🌷
+*Building technology that blends intelligence, creativity, and beauty — with a focus on empowering women.* 🌷
 
 [![GitHub followers](https://img.shields.io/github/followers/cindymiti77-ship-it?style=flat\&color=e7a8c3\&labelColor=fff4f8\&logo=github\&logoColor=925b77)](https://github.com/cindymiti77-ship-it)
 [![Profile views](https://komarev.com/ghpvc/?username=cindymiti77-ship-it\&style=flat\&color=d9b8e8\&label=profile%20visits)](https://github.com/cindymiti77-ship-it)
@@ -17,20 +17,24 @@
 
 ## 🌸 About Me
 
-Hi! I'm **Cindy**, a developer who enjoys exploring technology, solving problems, and bringing creative ideas to life through code.
+Hi! I'm **Cindy**, a Computer Science Engineer and AI-driven innovator passionate about using technology to create meaningful experiences.
 
-* 💗 Exploring **software development, cybersecurity, and modern web technologies**
-* 🌱 Always learning, experimenting, and improving
-* 🪄 Enjoying the balance between **logic, creativity, and problem-solving**
-* 🎀 Working toward becoming a better developer, one project at a time
+I'm especially interested in the intersection of **artificial intelligence, software development, and beauty-tech** — exploring how technology can become more personal, accessible, and empowering.
 
-> *Still learning, still building, and always curious about what's possible.*
+* 🤖 Exploring **AI and intelligent technology**
+* 💻 Building with modern **software and web technologies**
+* 💄 Interested in the possibilities of **beauty-tech**
+* 💗 Passionate about creating technology that **empowers women**
+* 🌱 Continuously learning, experimenting, and turning ideas into working products
+* 🪄 I enjoy combining **technical thinking with creativity and design**
+
+> *Technology doesn't have to choose between intelligence and beauty — it can be both.*
 
 ---
 
 ## 🧁 Tech Stack
 
-Technologies I've worked with across different projects and experiments:
+Technologies I've worked with across projects and experiments:
 
 <div align="center">
 
@@ -55,17 +59,27 @@ Technologies I've worked with across different projects and experiments:
 
 ---
 
-## 🎀 Projects
+## 🎀 Featured Projects
 
-A few things I've worked on:
+A few projects from my journey:
 
 | Project                 | Description                                                                                                                     |
 | :---------------------- | :------------------------------------------------------------------------------------------------------------------------------ |
 | **NIDS Dashboard**      | A network intrusion detection project featuring traffic replay, event detection, and a dashboard for exploring security alerts. |
-| **Flow Guardian**       | A web application project built with modern web technologies.                                                                   |
+| **Flow Guardian**       | A web application project exploring modern software development and digital experiences.                                        |
 | **AuditWise Dashboard** | A dashboard project focused on presenting and working with application data.                                                    |
 
-> 🌷 More projects and details will be added as they are ready to showcase.
+> 🌷 More projects will be added as they become ready to showcase.
+
+---
+
+## 🤖 Where Technology Meets Creativity
+
+I'm particularly interested in exploring how **AI can make digital experiences more intelligent, personal, and useful**.
+
+My long-term interest lies in building products where technology solves real problems while still feeling intuitive, beautiful, and human.
+
+**AI × Software × Beauty-Tech × Women Empowerment**
 
 ---
 
@@ -91,27 +105,29 @@ A few things I've worked on:
 
 <div align="center">
 
-|      🌱 Learning      |     💻 Building     |      🎯 Goal     |
-| :-------------------: | :-----------------: | :--------------: |
-| `[What I'm learning]` | `[Current project]` | `[Current goal]` |
+|      🌱 Exploring      |          💻 Building          |                🎯 Vision                |
+| :--------------------: | :---------------------------: | :-------------------------------------: |
+| **AI & Emerging Tech** | **Creative Digital Products** | **Empowering Women Through Technology** |
 
 </div>
 
-* 🎧 **Coding soundtrack:** `[Favorite music or playlist]`
-* ☕ **Coding mood:** Cozy focus & curious mind
-* ✨ **Philosophy:** Learn something new, build something useful, repeat.
+* 🤖 **Exploring:** AI-driven applications and emerging technologies
+* 💻 **Building:** Projects that combine technology, creativity, and real-world impact
+* 💄 **Interested in:** Beauty-tech and personalized digital experiences
+* 🌱 **Learning:** New technologies, frameworks, and ways to build better products
+* ✨ **Goal:** Create technology that is intelligent, useful, beautiful, and empowering
 
 ---
 
 ## 💌 Let's Connect
 
-I'd love to connect with fellow developers, learners, and creative minds.
+I'm always happy to connect with developers, innovators, creators, and people building exciting things with technology.
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-cindymiti77--ship--it-f4d9e5?style=for-the-badge\&logo=github\&logoColor=855a72)](https://github.com/cindymiti77-ship-it)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-add_your_profile-eadff5?style=for-the-badge\&logo=linkedin\&logoColor=795b91)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cindy%20Miti-eadff5?style=for-the-badge\&logo=linkedin\&logoColor=795b91)](https://www.linkedin.com/in/cindy-miti-2116a2360/)
 
 </div>
 
@@ -121,8 +137,8 @@ I'd love to connect with fellow developers, learners, and creative minds.
 
 *“Great things are done by a series of small things brought together.”* ♡
 
-**Thanks for stopping by my little corner of GitHub.**
+**Thanks for visiting my little corner of GitHub.**
 
-*Made with curiosity, creativity, and a little bit of pink.* 🎀
+*Building with intelligence, creativity, and a little bit of pink.* 🎀
 
 </div>
