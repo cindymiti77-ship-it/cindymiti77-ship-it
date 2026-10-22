@@ -73,6 +73,18 @@ Technologies I've worked with across projects and experiments:
 
 ---
 
+## 🌷 Contribution Graph
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=cindymiti77-ship-it&bg_color=fff8fb&color=795f70&line=d49ab8&point=b87598&area=true&hide_border=true&v=2" alt="Cindy's GitHub contribution activity graph" />
+
+</div>
+
+<sub>Contribution data and GitHub statistics are provided by external services and may occasionally be unavailable or take time to update.</sub>
+
+---
+
 ## 🎀 Featured Projects
 
 A few projects from my developer journey:
